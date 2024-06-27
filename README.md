@@ -1,1 +1,1 @@
-# JSGame
+npm i jsinterviewgame
